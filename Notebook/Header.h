@@ -3,6 +3,7 @@
 #include <string>
 #include <Windows.h>
 #include <list>
+using namespace std;
 HANDLE color = GetStdHandle(STD_OUTPUT_HANDLE);
 
 struct description_event;
