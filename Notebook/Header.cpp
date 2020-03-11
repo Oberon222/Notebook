@@ -3,6 +3,7 @@
 #include <string>
 #include <Windows.h>
 #include <list>
+using namespace std;
 
 struct description_event
 {
@@ -13,6 +14,7 @@ struct description_event
 	string hours;
 	int level_importance;
 };
+
 
 void view_events(list<description_event> Notebook)
 {
@@ -96,4 +98,4 @@ void SearchEventImportanceLevel()
 
 }
 
-}
+
