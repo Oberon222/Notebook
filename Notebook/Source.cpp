@@ -5,7 +5,6 @@
 #include "Header.h"
 using namespace std;
 
-//sdlfjasldfj
 
 int main() {
 	int action = 0;

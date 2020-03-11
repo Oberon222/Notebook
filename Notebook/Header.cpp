@@ -4,7 +4,6 @@
 #include <Windows.h>
 #include <list>
 using namespace std;
-//sdfl;jsdf
 
 struct description_event
 {
