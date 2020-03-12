@@ -4,6 +4,7 @@
 #include <list>
 #include "Header.h"
 using namespace std;
+list < description_event> Notebook;
 
 
 int main() {
